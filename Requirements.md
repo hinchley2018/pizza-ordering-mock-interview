@@ -1,5 +1,6 @@
 ## Goal
 - Build a full-stack pizza ordering app that can scale
+- You can use whatever tech stack you want, but everyone gets the same time constraints
 
 ## Frontend
 - The frontend should have two pages (don't worry about auth for now)
@@ -19,7 +20,9 @@
 
 ## Bonus
 - How would you handle searching, filtering as orders scale globally?
-- How does your api handle 1000 requests / sec? 
+- How does your api handle 1000 read requests / sec? 
+- How does your api handle 1000 write requests / sec? 
+- How would you handle notifications on order fufillment, order creation, etc?
 - How does your database choice handle schema changes?
 - How would deployment work?
 - How would configuration and secret management work?
