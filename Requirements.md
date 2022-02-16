@@ -7,14 +7,14 @@
 - Create orders page for customers to submit orders
 
 ## Backend
-- we are not giving too much away to ensure fairness
+- we are not giving too much away to ensure fairness and not restrict your choice in tech stack
 - At minimum
- - it should have a database to store orders
- - it should have api endpoints that allow you to handle requests from the frontend
-- What we are looking for?
- - Scalability
- - Maintainability
- - Good Design Patterns
+  - it should have a database to store orders
+  - it should have api endpoints that allow you to handle requests from the frontend
+- What are we looking for?
+  - Scalability
+  - Maintainability
+  - Good Design Patterns
 
 
 ## Bonus
